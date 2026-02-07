@@ -9,7 +9,7 @@ app.use(cors({
     "http://localhost:8080",
     "http://localhost:5173",
     "https://sp-backend-sq28.onrender.com",
-    "https://YOUR_NETLIFY_SITE.netlify.app"
+    "https://swainrecommend.netlify.app/"
   ],
 }));
 
